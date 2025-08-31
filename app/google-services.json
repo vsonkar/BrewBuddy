@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095237463835",
+    "project_id": "brewbuddy-f9022",
+    "storage_bucket": "brewbuddy-f9022.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095237463835:android:2d907a42dace7f864cadbe",
+        "android_client_info": {
+          "package_name": "com.example.brewbuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqXpcPXIQxIaWaTnklTCiE8NvswzyRjQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

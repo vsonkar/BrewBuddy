@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BrewBuddy</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+    <string name="brew_buddy">Brew\n<font color="#A9682A">B</font>uddy</string>
+    <string name="get_started">Get Started</string>
+    <string name="brew_buddy2">Brew <font color="#A9682A">B</font>uddy</string>
+    <string name="search">Find your drink</string>
+    <string name="category">Category</string>
+    <string name="title">Title</string>
+    <string name="popular_coffees">Popular Coffees</string>
+    <string name="specials">Specials</string>
+    <string name="list">List</string>
+    <string name="description">Description</string>
+    <string name="coffee_size">Coffee Size</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="price">Price</string>
+    <string name="_0">₹0</string>
+</resources>
